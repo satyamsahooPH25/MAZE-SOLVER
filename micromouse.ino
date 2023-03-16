@@ -432,7 +432,7 @@ void follow(int a, int b)// depending on fwdl stack and dir stack it moves by ch
   }
  g++;
  follow();
-}*/
+}
 void setup()
 {
   pinMode(13,OUTPUT);
